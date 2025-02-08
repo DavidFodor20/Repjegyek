@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1668253193 source:c:\users\dfodor\onedrive\dokumentumok\egyetem\progalap\programok\nagyhaziuj\repulojegyek\linked_list.c
+	"Linked_List.h"
+	<stdio.h>
+	<stdlib.h>
+
+1668261058 c:\users\dfodor\onedrive\dokumentumok\egyetem\progalap\programok\nagyhaziuj\repulojegyek\linked_list.h
+	<stdio.h>
+	<stdlib.h>
+
+1668266178 source:c:\users\dfodor\onedrive\dokumentumok\egyetem\progalap\programok\nagyhaziuj\repulojegyek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"debugmalloc.h"
+	"Linked_List.h"
+	"Flights_Linked_List.h"
+
+1666607711 c:\users\dfodor\onedrive\dokumentumok\egyetem\progalap\programok\nagyhaziuj\repulojegyek\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1668266178 c:\users\dfodor\onedrive\dokumentumok\egyetem\progalap\programok\nagyhaziuj\repulojegyek\flights_linked_list.h
+	<stdio.h>
+	<stdlib.h>
+
+1668253957 source:c:\users\dfodor\onedrive\dokumentumok\egyetem\progalap\programok\nagyhaziuj\repulojegyek\flights_linked_list.c
+	"Flights_Linked_List.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

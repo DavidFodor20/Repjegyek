@@ -1,0 +1,8 @@
+105488 alma 15 1055 vegetarian
+105487 alm 45 1055 vegan
+105489 ala 16 1055 normal
+105480 ama 54 1055 vegetarian
+105485 lma 63 1055 normal
+105486 salma 55 1055 vegetarian
+105482 adlma 17 1055 vegan
+105489 korte 16 1056 vegan
